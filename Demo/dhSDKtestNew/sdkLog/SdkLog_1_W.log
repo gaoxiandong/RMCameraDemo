@@ -1,0 +1,18 @@
+[2017-10-23 13:28:15.795][INF] The COM:Core ver is 5.2.7.4, 2017_06_06. Async:1.
+[2017-10-23 13:28:15.795][INF] This hcnetsdk ver is 5.2.7.4 Ver 2017_06_06.
+[2017-10-23 13:28:15.795][INF] login dev 172.16.0.239:8000.
+[2017-10-23 13:28:16.386][INF] Private connect 172.16.0.239:8000 sock=44 this=0x5800a014 cmd=0x10000 port=52254
+[2017-10-23 13:28:16.387][INF] LogonDev1 in[172.16.0.239:8000]
+[2017-10-23 13:28:16.425][ERR] CCoreGlobalCtrl::GetComPath err!! strlen(m_szComPath) = 0
+[2017-10-23 13:28:16.425][ERR] GetCoreGlobalCtrl()->GetComPath(pPath) err!!
+[2017-10-23 13:28:16.426][DBG] load[.//HCNetSDKCom/libHCPreview.so] succ
+[2017-10-23 13:28:16.426][INF] AbilityAnalyze---Init-- start
+[2017-10-23 13:28:16.628][DBG] AbilityAnalyze---Init-- over, DeviceList path [/home/gxd/rmface/dhSDKtestNew/HCNetSDKCom/LocalXml/DeviceList.xml], load result[0]
+[2017-10-23 13:28:16.628][INF] The COM:Preview ver is 5.2.7.4, 2017_06_06.
+[2017-10-23 13:28:16.628][INF] ID-IP-CHAN[0-172.16.0.239-1] [CPreviewSession::AdjustProtoType] StreamMode[0], StreamProtocol[0xffff]
+[2017-10-23 13:28:16.830][DBG] ID-IP-CHAN[0-172.16.0.239-1] [CPreviewSession::Start] SUCC
+[2017-10-23 13:28:16.982][INF] Private connect 172.16.0.239:8000 sock=44 this=0x5800a014 cmd=0x30000 port=52256
+[2017-10-23 13:28:16.991][ERR] CCoreGlobalCtrl::GetComPath err!! strlen(m_szComPath) = 0
+[2017-10-23 13:28:16.991][ERR] GetCoreGlobalCtrl()->GetComPath(pPath) err!!
+[2017-10-23 13:28:16.992][INF] GlobalCtrl load [.//HCNetSDKCom/libSystemTransform.so] with sdk path success and get handle[0x30001100]
+[2017-10-23 13:28:16.992][INF] CStreamConvert::LoadConvertLib Load Succ, m_iInitCount = 1
